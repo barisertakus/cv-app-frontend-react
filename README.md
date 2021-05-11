@@ -1,2 +1,2 @@
-# cv-app-frontend
- Cv app front-end
+# cv-app-frontend-react
+ Cv app frontend
