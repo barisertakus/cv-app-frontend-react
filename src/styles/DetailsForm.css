@@ -1,0 +1,43 @@
+.details__form{
+  margin: 15px;
+}
+
+.cv__details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cv__detail{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.cv__headers{
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+.cv__headers h3{
+  margin: 20px;
+  margin-left: 0px;
+}
+
+.cv__properties{
+  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cv__send{
+  margin-top: 20px;
+}
+
+.cv__send button{
+  margin: 10px;
+}
